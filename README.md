@@ -2,6 +2,8 @@
 
 ## Create a simple weather app with SwiftUI.
 
+###### get the user's current location
+
 
 # Demo 
 
@@ -16,6 +18,7 @@ https://user-images.githubusercontent.com/91431846/213255272-66887945-ccef-4d94-
 
 
 
+##### Source
 
-###### Source
+###### OpenWeather website : https://openweathermap.org
 ###### https://youtu.be/X2W9MPjrIbk
